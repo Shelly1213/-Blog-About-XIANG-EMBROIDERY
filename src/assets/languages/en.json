@@ -1,0 +1,163 @@
+{
+  "common": {
+    "changeLanguage": "English",
+    "xiangxiuon":"Xiang Embroidery On the Pinpoint",
+    "tuyuan": "（Authorized picture from Zaihong Xiang Embroidery）"
+  },
+  "menu": {
+      "home": "Home",
+      "userCenter": "UserCenter",
+      "message": "Message",
+      "setting": "Setting",
+      "download": "Download"
+  },
+  "others": {
+    "JSExample": "JSExample"
+  },
+  "header": {
+    "1": "Xiang embroidery:China's fine traditional culture",
+    "2": "Home page",
+    "3": "Xiang embroidery culture",
+    "8": "What is Xiang Embroidery?",
+    "9": "Explore the history of Xiang Embroidery",
+
+
+    "4": "Xiang embroidery stitch",
+    "5": "Xiang embroidery works",
+    "10": "Traditional style",
+    "11": "Modern style",
+
+    "6": "Appreciates",
+    "7": "About"
+  },
+  "temRightlist": {
+    "1": "Xiang embroidery",
+    "2": "Culture",
+    "3": "Contact us",
+    "4": "Twitter",
+    "5": "Facebook",
+    "6": "weibo",
+    "7": "Little red book",
+    "8": "BiliBili",
+    "9": "More",
+    "10": "Give this site a thumbs up ~"
+  },
+  "footer": {
+    "1": "Blog up and running",
+    "2": "Alibaba cloud ",
+    "3": "provides object storage services and DNS resolution services.",
+    "4": "Hunan University of Science and Technology",
+    "5": "Developed By ZTY"
+  },
+  "aboutme": {
+    "1": "About the Team",
+    "2": "Our team members are all from the school of Foreign Languages, Hunan University of Science and Technology and major in Business English.We have a solid  foundation of professional knowledge, rich social practice experience,  wholehearted enthusiasm of promoting intangible cultural heritage. We focus on the inheritance of Xiang embroidery cultural and devote ourselves to the promotion of Xiang embroidery culture. We are always on the road!",
+    "3": "Web developer:ZTY from School of Computer Science and Engineering, Hunan University of Science and Technology",
+    "4": "Although interested in hunan embroidery culture, you can follow our official account ~",
+    "5": "PS: This site is suitable for PC terminal and mobile terminal",
+    "6": "Built on December 1, 2020,Updated to Vue on December 20, 2020"
+  },
+  "share": {
+    "1": "Traditional Style",
+    "2": "Tradition - Animals",
+    "3": "Scene I",
+    "4": "Scene II",
+    "5": "Folk custom",
+    "6": "Animal",
+    "7": "Here are the combinations of Xiang Embroidery and animals in traditional form. As we know, Xiang Embroidery has a great reputation that the songs of the embroidered birds can be heard and the movements of the embroidered tigers can be noticed. So what will it show us this time? Let’s take a look.",
+    "8": "Published in"
+  },
+  "xiandai": {
+    "1": "Modern style",
+    "2": "Animal",
+    "3": "Scenery-Nature",
+    "4": "Scenery-Tourist Attraction",
+    "5": "Else",
+    "6": "Figure"
+  },
+  "share112": {
+    "1": "Scene I",
+    "2": "Can Chinese traditional painting be embroidered? Does this kind of interdisciplinary art really exist? To see is to believe. Here are several integrate masterpieces including embroideries of flowers which are called “four gentlemen”. In China, they refer to plum blossoms standing for noble and unsullied，orchid standing for indifferent to fame and wealth, bamboo standing for moral integrity and uprightness and chrysanthemum standing for not being timeserving."
+  },
+  "share113": {
+  "1": "Scene II",
+  "2": "In many paintings of freehand brushwork, the author can outline the beautiful mood and style with a few strokes. No matter what realistic brushwork or freehand brushwork in traditional Chinese painting, Xiang Embroidery can deal with it skillfully. Moreover, the embroidered work is more realistic than original painting. The following are some great works of Xiang Embroidery. Let’s enjoy it."
+  },
+  "share114": {
+    "1": "Folk custom",
+    "2": "In the era of globalization, with the increase of communication between countries in the world, the cultural exchanges have been strengthened. Xiang embroidery enterprises pay equal attention to “bringing in” and “going out”, which makes great contribution to the integration and exchange of Chinese and Western culture. Meanwhile, Xiang Embroidery become more colorful through the interaction of Chinese and Western folk custom."
+  },
+  "share12": {
+    "1": "Animal",
+    "2":"Due to its unique flurry stitch, Lions and leopards are one of the most typical animals among Xiang Embroidery in animal area. Additionally, Xiang Embroidery has also embroidered others in realism, such as swans, persian cats, sika deers, white rabbits, and so on. They have various styles and themes, and are related with modern life closely."
+  },
+
+  "share122": {
+    "1":"Scenery" ,
+    "2": "Landscape",
+    "3": "Apart from attractions, you can also enjoy scenery at any place in the Xiang embroidery. For instance, there is snowy mountain in the cold morning, some waterfall of great momentum, a cottage with the setting sun, bleak but hidden life desert and so on. Xiang Embroidery use traditional Chinese painting, oil painting methods to record all of their beauty."
+  },
+  "share123": {
+    "1":"Scenery" ,
+    "2": "Tourist Attraction",
+    "3": "Xiang Embroidery, the representation of Huxiang culture, has undoubtedly contained scenery in Changsha, Hunan and even all the nation. With the cooperation between painters and embroidery workers, various scenery become true to life.",
+    "4": "This time, we can set out our journey by watching Xiang Embroidery admirably, instead of going out in reality.",
+    "5": "Love evening pavilion in Changsha, Hunan",
+    "6": "Juzizhou Head, Changsha, Hunan",
+    "7": "Tianxin Pavilion, Changsha, Hunan",
+    "8": "Zhangjiajie, Hunan Province",
+    "9": "Former residence of MAO Zedong in Xiangtan, Hunan Province",
+    "10": "The Great Wall in Beijing",
+    "11": "The south of the lower reaches of the yangze river"
+  },
+
+  "share124": {
+    "1":"Else",
+    "2":"I:CLOTHING",
+    "3":" Xiang embroidery can be considered not only as decorations, but also as clothing. It is enjoyable to see the encounter of handicraft Xiang embroidery patterns and quaint Qipao." ,
+    "4":"II:Ornament",
+    "5":"Apart from, Xiang embroidery can also be ornament. They have various shapes and colorful themes. If you buy one to place at home or in the office, this can lighten the mood and regulate atmosphere to some extent."
+  },
+  "share125": {
+    "1":"Figure" ,
+    "2":"Figure embroidery is the most complicated and time-consuming among Xiang Embroidery. Apart from complicated figures, its hand-embroidered backgrounds also require high tech to embroider. Taking advantage of Xiang Embroidery characteristic stitches such as Kai Lianzi stitch, figure Xiang embroidery are almost true to life. Therefore, they are also at higher prices. ",
+    "3":"In the beginning, Xiang figure embroidery is mainly about political figures. Then, its themes have been enriched and western style figures spring up. Its embroidering methods depend on its work style to choose specific embroidery stitches and threads."
+  },
+  "share21": {
+    "1": "What is Xiang embroidery?",
+    "2": "Xiang embroidery is the general name of Hunan embroidery products, which is one of the Four Famous Embroideries of China. It is a general name of Hunan embroidery products with distinctive Chu cultural characteristics. It originated from Hunan folk embroidery and absorbed the essence of Suzhou embroidery and Guangdong embroidery. With a history of more than 2000 years, Xiang embroidery is one of China Intangible Cultural Heritage.",
+    "3": "Vivid and lifelike, Xiang embroidery is based on the drawing, needle instead of pen, intermingling with line, which is an art-recreation on the basis of deliberately pursuing the original appearance of the painting. Take tiger embroidery work as an example, brightness of the eyes and power all are showon the satin.",
+    "4": "According to its stitch, there are mainly two types: Single-sided embroidery and double-sided embroidery. Single-sided embroidery is on a piece of embroidered material that embroiders embroider single-sided images. Double-sided embroidery is whose front and back sides are same embroider face. This is the one and the only one embroidery method among Four Famous Embroideries of China.",
+    "5": "In terms of theme of the work, Xiang embroidery is mainly divided into landscape, animals and figures. In terms of the difficulty of embroidering, landscape is relatively easier than animal figures. And figures are the most difficult to embroider. It is not easy to embroider the expression of character vividly."
+  },
+  "Reward": {
+    "1": "Appreciates instruction:",
+    "2": "If the content has brought you a new perspective or helped you, please appreciate the support:)",
+    "3": "Appreciates ways",
+    "4": "WeChat, scan",
+    "5": "Alipay scan",
+    "6": "Appreciates"
+  },
+  "message": {
+    "1": "The stitch of Xiang Embroidery",
+    "3": "Stitch of Xiang embroidery is developed from the sleeve needle of Su embroidery and is characterized by blending needles. Commonly known as random insertion needles, the needling system of elaborate embroidery stitch is further subdivided into various types, such as connecting stitch, sticking stitch and direct stitch, which makes the object image vivid and three-dimensional.",
+    "4": "Flurry stitch, one of the Xiang embroidery stitches , is mainly used for embroidering hair of tigers and lions. It is created by famous Xiang embroidery artist Yu Zhenhui. This kind of stitch can make it similar to real hair. ",
+    "5": "Panjin stitch, a kind of Stripe stitch, is the simplification of Pingjin stitch. Often used with Dazi stitch, it is suitable for embroidering table blanket, quilt cover and other practical articles with  decorative appreciation. ",
+    "6": "Variant stitch: In embroidery, there is a special stitch that uses other tools, materials and techniques to make the conventional embroidery change. That is variant embroidery.",
+    "2": "There are nearly 100 kinds of traditional stitches."
+  },
+  "share22": {
+    "2": "The History of Xiang Embroidery",
+    "3": "Xiang Embroidery has a very long history.",
+    "4": "In 1958, some embroidery products were unearthed from the Chu tomb in Changsha, which implies that Hunan embroidery had a certain development early as 2,500 years ago in the Spring and Autumn Period. In 1972, another 40 pieces of embroidery clothes were unearthed in the western Han Dynasty tomb in Mawangdui, Changsha, indicating that embroidery in Hunan province had reached a high level in the Western Han Dynasty more than 2,100 years ago.",
+    "5": "Based on Hunan folk embroidery, Xiang embroidery also absorbed the advantages of Suzhou embroidery, Guangdong embroidery, Beijing embroidery and so on, which developed into a rising star of embroidery in Qing Dynasty. In 1898, Wu Hanchen, the son of a embroidery worker named Hu Lianxian, opened the first self-embroidered \"Wu Caixia embroidery Shop\" in Changsha. With excellent works, Xiang embroidery was widely spread and became famous all over the country.",
+    "6": "Around 1891, Yang Shizhuo, a painter in Ningxiang, advocated Hunan folk embroidery. He further researched embroidery workshops and painted embroidery manuscripts. He also created a variety of needlework, which improved the artistic level of Xiang embroidery.",
+    "7": "Since the 19th century, under the constant exploration of embroidery artists and Chinese painters, Xiang Embroidery absorbed the essence of various kinds of Chinese arts, which further enriched its cultural connotation.",
+    "8": "In the late Qing Dynasty, Xiang Embroidery formed a unique style of embroidery system, and became a handcraft goods with unique style and strong local color to enter the market.",
+    "9": "In the 1930s, the output value of Xiang embroidery reached as high as 800,000 silver yuan , and a third of its products were exported. In the section of Embroidery in the General report of West Lake Expo in 1935, Xiang embroidery occupied half this work.",
+    "10": "Xiang embroidery experienced three ups and downs after 1949.",
+    "11": "In the 1950s, with the popularity of Stalin's Xiang embroidery work in the Soviet Union, Xiang embroidery industry entered the first export climax targeted for the Soviet Union and Eastern Europe, but it fell sharply from peak after the rupture of Sino-Soviet relations.",
+    "12": "In the early 1970s, Xiang embroidery turned to Hong Kong, whice contributed to its second climax of development.However, in the early 1990s, with the vigorous development of culture and economy, the development of Xiang embroidery industry flatted out.",
+    "13": "At the beginning of the 21st century, Xiang embroidery was listed as the first intangible cultural heritage protection project in China and Xiang embroidery industry refreshed. But its duration is short. "
+  }
+}
