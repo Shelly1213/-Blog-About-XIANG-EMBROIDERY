@@ -1,5 +1,5 @@
 # Blog-About-XIANG-EMBROIDERY
-  大三上期和本校外国语学院做的网站项目，适配移动端、PC端、可以用HBuilder打包成APP，适合入门,main分支为前端vue代码，后端代码在另一个分支
+  大三上期做的网站项目，适配移动端、PC端、可以用HBuilder打包成APP，适合想用vue练手的朋友,main分支为前端代码，后端代码在本分支
 
 ## 后端技术栈<br>
   Springboot框架、MyBatis。考虑到实际，网站只用到了部分功能，登录注册、Token验证等功能并没有实际放在项目中，但后端代码中有写。
